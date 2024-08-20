@@ -40,6 +40,40 @@ Format your out with f{""}
 
 -- 
 
+### Task #7
+✅ Leap Year Checker:
+
+![img_1.png](img_1.png)
+
+Create a program that determines whether a given year is a leap year. 
+A leap year is divisible by 4, but not by 100 unless it is also divisible by 400.
+Use an if-else statement to make this determination.
+
+### Task #8
+✅ Triangle Classifier:
+
+
+![img.png](img.png)
+
+
+Write a program that classifies a triangle based on its side lengths. 
+Given three input values representing the lengths of the sides, 
+determine if the triangle is equilateral (all sides are equal), 
+isosceles (exactly two sides are equal), or scalene (no sides are equal). 
+Use an if-else statement to classify the triangle.
+
+
+### Task #9
+✅ FizzBuzz Test:
+Write a program that prints numbers from 1 to 100. # Loop For
+However, for multiples of 3, print "Fizz" instead of the number, and
+for multiples of 5, print "Buzz." 
+For numbers that are multiples of both 3 and 5, print "FizzBuzz."
+
+
+
+
+
 ## Todo 
 - What is the difference with list and tuple?
 - is - this operator Java (list)
