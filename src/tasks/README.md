@@ -87,7 +87,23 @@ n = 7
 
 
 
-
 ## Todo 
 - What is the difference with list and tuple?
 - is - this operator Java (list)
+
+### Task #12 -
+
+### 12.1 
+Write a Python program to find the largest number in a list.
+### 12.2 
+Write a Python program to find the smallest number in a list.
+### 12.3
+Write a Python program to sum all numbers in a list.
+
+Write a Python program to multiply all numbers in a list.
+Write a Python program to count the number of strings in a list where the string length is 2 or more and the first and last characters are the same.
+Write a Python program that takes two lists and returns True if they have at least one common member.
+Write a Python program that prints all the numbers from 0 to 6 except 3 and 6.
+Write a Python program to get the Fibonacci series between 0 to 50.
+Write a Python program to find the factorial of a number.
+Write a Python program to check if a number is a prime number.
