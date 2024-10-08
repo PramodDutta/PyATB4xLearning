@@ -33,3 +33,8 @@ List of topics covered in the document that you can add to a README.md file:
   - OrderedDict
 - Regular Expressions (Regex)
 
+
+
+Notes
+
+

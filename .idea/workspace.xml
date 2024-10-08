@@ -4,18 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95ca63e3-6812-42e6-9d56-1ade67866bae" name="Changes" comment="All the files - 10 Sept">
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_12092024/ExcelReader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_12092024/Lab167.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_12092024/Lab168.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_12092024/Lab169.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_12092024/Lab170.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_12092024/MySQLdbReader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_12092024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_12092024/browserPackage/CloseBrowser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_12092024/browserPackage/OpneBrowser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_12092024/browserPackage/__init__.py" afterDir="false" />
+    <list default="true" id="95ca63e3-6812-42e6-9d56-1ade67866bae" name="Changes" comment="All the files - 12 Sept">
+      <change afterPath="$PROJECT_DIR$/src/Oct/Lab173.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/test_Lab174.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/test_Lab175.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/test_Lab176.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/test_Lab177.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/test_Lab178.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_26092024_API/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_26092024_API/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +58,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python tests.Python tests for test_Lab175.test_verify_sub.executor": "Run",
+    "Python tests.Python tests for test_Lab175.test_verify_sum.executor": "Run",
     "Python.Lab00023.executor": "Run",
     "Python.Lab001.executor": "Run",
     "Python.Lab0014.executor": "Run",
@@ -198,9 +202,12 @@
     "Python.Lab165.executor": "Run",
     "Python.Lab166.executor": "Run",
     "Python.Lab168.executor": "Run",
+    "Python.Lab171.executor": "Run",
+    "Python.Lab172.executor": "Run",
     "Python.Task10.executor": "Run",
     "Python.Task7.executor": "Run",
     "Python.Task9.executor": "Run",
+    "Python.app.executor": "Run",
     "Python.lAB169.executor": "Run",
     "Python.lab164.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -225,52 +232,8 @@
       <recent name="$PROJECT_DIR$/src/Aug" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab169">
-    <configuration name="Lab165" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB4xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Sept/ex_10092024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Sept/ex_10092024/Lab165.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lab166" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB4xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Sept/ex_10092024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Sept/ex_10092024/Lab166.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lab168" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests for test_Lab175.test_verify_sub">
+    <configuration name="Lab171" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB4xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -283,7 +246,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Sept/ex_12092024/Lab168.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Sept/ex_12092024/Lab171.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -292,7 +255,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab169" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab172" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB4xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -305,7 +268,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Sept/ex_12092024/Lab169.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Sept/ex_12092024/Lab172.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -314,7 +277,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lab164" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB4xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -323,26 +286,56 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Sept/ex_10092024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Sept/ex_26092024_API" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Sept/ex_10092024/lab164.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Sept/ex_26092024_API/app.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_Lab175.test_verify_sub" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PyATB4xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Oct" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab175.test_verify_sub&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_Lab175.test_verify_sum" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PyATB4xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Oct" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab175.test_verify_sum&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab169" />
-        <item itemvalue="Python.Lab168" />
-        <item itemvalue="Python.Lab166" />
-        <item itemvalue="Python.Lab165" />
-        <item itemvalue="Python.lab164" />
+        <item itemvalue="Python tests.Python tests for test_Lab175.test_verify_sub" />
+        <item itemvalue="Python tests.Python tests for test_Lab175.test_verify_sum" />
+        <item itemvalue="Python.app" />
+        <item itemvalue="Python.Lab172" />
+        <item itemvalue="Python.Lab171" />
       </list>
     </recent_temporary>
   </component>
@@ -466,7 +459,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725936993319</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="All the files - 12 Sept">
+      <option name="closed" value="true" />
+      <created>1726107267460</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1726107267460</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -483,6 +484,7 @@
     <MESSAGE value="All the files - 5 Sept" />
     <MESSAGE value="All the files - 7 Sept" />
     <MESSAGE value="All the files - 10 Sept" />
-    <option name="LAST_COMMIT_MESSAGE" value="All the files - 10 Sept" />
+    <MESSAGE value="All the files - 12 Sept" />
+    <option name="LAST_COMMIT_MESSAGE" value="All the files - 12 Sept" />
   </component>
 </project>
