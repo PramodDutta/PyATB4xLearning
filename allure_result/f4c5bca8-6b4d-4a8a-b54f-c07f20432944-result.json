@@ -1,0 +1,44 @@
+{
+  "name": "test_sub2",
+  "status": "passed",
+  "start": 1728353329159,
+  "stop": 1728353329159,
+  "uuid": "d72da337-01ef-4e21-95a4-a818c16aca3c",
+  "historyId": "eb57dfab94dbe9949ee8db42bfd2216d",
+  "testCaseId": "eb57dfab94dbe9949ee8db42bfd2216d",
+  "fullName": "src.Oct.test_Lab176#test_sub2",
+  "labels": [
+    {
+      "name": "tag",
+      "value": "smoke"
+    },
+    {
+      "name": "parentSuite",
+      "value": "src.Oct"
+    },
+    {
+      "name": "suite",
+      "value": "test_Lab176"
+    },
+    {
+      "name": "host",
+      "value": "promodes-MacBook-Pro.local"
+    },
+    {
+      "name": "thread",
+      "value": "34788-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "src.Oct.test_Lab176"
+    }
+  ]
+}

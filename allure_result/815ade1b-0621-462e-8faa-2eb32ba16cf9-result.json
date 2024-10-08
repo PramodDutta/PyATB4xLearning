@@ -1,0 +1,82 @@
+{
+  "name": "Test Authentication",
+  "status": "passed",
+  "description": "This test attempts to log into the website using a login and a password. Fails if any error happens.\n\nNote that this test does not test 2-Factor Authentication.",
+  "start": 1728353329158,
+  "stop": 1728353329158,
+  "uuid": "e7a922e8-b812-4f7d-b747-50279ebb73f1",
+  "historyId": "22373e7d791b12d4d3c7c4f7d4b34efc",
+  "testCaseId": "22373e7d791b12d4d3c7c4f7d4b34efc",
+  "fullName": "src.Oct.test_Lab176#test_sub0",
+  "labels": [
+    {
+      "name": "tag",
+      "value": "Essentials"
+    },
+    {
+      "name": "tag",
+      "value": "Authentication"
+    },
+    {
+      "name": "owner",
+      "value": "John Doe"
+    },
+    {
+      "name": "tag",
+      "value": "NewUI"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "tag",
+      "value": "smoke"
+    },
+    {
+      "name": "parentSuite",
+      "value": "src.Oct"
+    },
+    {
+      "name": "suite",
+      "value": "test_Lab176"
+    },
+    {
+      "name": "host",
+      "value": "promodes-MacBook-Pro.local"
+    },
+    {
+      "name": "thread",
+      "value": "34788-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "src.Oct.test_Lab176"
+    }
+  ],
+  "links": [
+    {
+      "type": "tms",
+      "url": "TMS-456",
+      "name": "TMS-456"
+    },
+    {
+      "type": "issue",
+      "url": "AUTH-123",
+      "name": "AUTH-123"
+    },
+    {
+      "type": "link",
+      "url": "https://dev.example.com/",
+      "name": "Website"
+    }
+  ]
+}
