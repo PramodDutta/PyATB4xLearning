@@ -4,21 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95ca63e3-6812-42e6-9d56-1ade67866bae" name="Changes" comment="All the files - 8 Oct">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="95ca63e3-6812-42e6-9d56-1ade67866bae" name="Changes" comment="All the files - 10th">
       <change afterPath="$PROJECT_DIR$/src/Oct/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/test_Lab179.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/test_Lab180.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/test_Lab181.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/test_Lab182.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/test_Lab183.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/test_Lab184.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/test_Lab185.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/test_Lab186.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/test_Lab187.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/test_Lab188.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/test_Lab189.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/userdata.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/test_Lab188.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/test_Lab188.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +61,8 @@
     "Python tests.Python tests for test_Lab185.test_update_req_1.executor": "Run",
     "Python tests.Python tests for test_Lab186.test_selenium.executor": "Run",
     "Python tests.Python tests for test_Lab187.test_update_req.executor": "Run",
+    "Python tests.Python tests for test_Lab189.Test_CRUD.executor": "Run",
+    "Python tests.Python tests for test_Lab189.Test_CRUD.test_update_2.executor": "Run",
     "Python.Lab00023.executor": "Run",
     "Python.Lab001.executor": "Run",
     "Python.Lab0014.executor": "Run",
@@ -233,44 +227,14 @@
       <recent name="$PROJECT_DIR$/src/Sept/ex_05092024" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Oct" />
       <recent name="$PROJECT_DIR$/src/Sept/ex_10092024/pra" />
       <recent name="$PROJECT_DIR$/src/Sept/ex_05092024" />
       <recent name="$PROJECT_DIR$/src/Sept/ex_05092024/new" />
       <recent name="$PROJECT_DIR$/src/Sept" />
-      <recent name="$PROJECT_DIR$/src/Aug" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_Lab187.test_update_req">
-    <configuration name="Python tests for test_Lab180.test_delete" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="PyATB4xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Oct" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab180.test_delete&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_Lab183.test_consume" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="PyATB4xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Oct" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab183.test_consume&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python tests.Python tests for test_Lab189.Test_CRUD">
     <configuration name="Python tests for test_Lab185.test_update_req_1" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB4xLearning" />
       <option name="ENV_FILES" value="" />
@@ -316,13 +280,43 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for test_Lab189.Test_CRUD" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PyATB4xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Oct" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab189.Test_CRUD&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_Lab189.Test_CRUD.test_update_2" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PyATB4xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Oct" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab189.Test_CRUD.test_update_2&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_Lab189.Test_CRUD" />
+        <item itemvalue="Python tests.Python tests for test_Lab189.Test_CRUD.test_update_2" />
         <item itemvalue="Python tests.Python tests for test_Lab187.test_update_req" />
         <item itemvalue="Python tests.Python tests for test_Lab186.test_selenium" />
         <item itemvalue="Python tests.Python tests for test_Lab185.test_update_req_1" />
-        <item itemvalue="Python tests.Python tests for test_Lab183.test_consume" />
-        <item itemvalue="Python tests.Python tests for test_Lab180.test_delete" />
       </list>
     </recent_temporary>
   </component>
@@ -470,7 +464,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728355046385</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="All the files - 10th">
+      <option name="closed" value="true" />
+      <created>1728527523975</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1728527523975</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -489,6 +491,7 @@
     <MESSAGE value="All the files - 10 Sept" />
     <MESSAGE value="All the files - 12 Sept" />
     <MESSAGE value="All the files - 8 Oct" />
-    <option name="LAST_COMMIT_MESSAGE" value="All the files - 8 Oct" />
+    <MESSAGE value="All the files - 10th" />
+    <option name="LAST_COMMIT_MESSAGE" value="All the files - 10th" />
   </component>
 </project>
